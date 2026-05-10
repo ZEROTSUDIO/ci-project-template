@@ -1,20 +1,20 @@
 /* General settings */
 body {
-    background-color: #ffe6f8;
+    background-color: #f5f5f5;
     color: #333;
 }
 
 a {
-    color: #ce0060;
+    color: #333333;
 }
 
 a:hover {
-    color: #cc00b1;
+    color: #555555;
 }
 
 /* Intro section */
 .intro.route {
-    background-color: #ce0060;
+    background-color: #333333;
     color: #fff;
 }
 
@@ -32,11 +32,11 @@ a:hover {
 
 /* Services section */
 #service .title-box h3 {
-    color: #ce0060;
+    color: #333333;
 }
 
 #service .title-box .subtitle-a {
-    color: #ce0060;
+    color: #333333;
 }
 
 .service-box {
@@ -47,7 +47,7 @@ a:hover {
 
 
 .service-content h2 {
-    color: #ce0060;
+    color: #333333;
 }
 
 .s-description {
@@ -55,39 +55,39 @@ a:hover {
 }
 
 .s-price {
-    color: #ce0060;
+    color: #333333;
 }
 
 /* Blog section */
 #blog .title-box h3 {
-    color: #ce0060;
+    color: #333333;
 }
 
 #blog .title-box .subtitle-a {
-    color: #ce0060;
+    color: #333333;
 }
 
 
 
 .card-category-box .card-category {
-    background-color: #ce0060;
+    background-color: #333333;
     color: #fff;
 }
 
 .card-title a {
-    color: #ce0060;
+    color: #333333;
 }
 
 .card-title a:hover {
-    color: #cc00b1;
+    color: #555555;
 }
 
 .post-author {
-    color: #ce0060;
+    color: #333333;
 }
 
 .post-date {
-    color: #ce0060;
+    color: #333333;
 }
 
 /* Navbar */
@@ -101,11 +101,11 @@ a:hover {
 }
 
 .navbar.navbar-b.navbar-expand-md.fixed-top.navbar-reduce{
-    background-color: #ce0060;
+    background-color: #333333;
 }
 
 .navbar-brand:hover {
-    color: #cc00b1;
+    color: #555555;
 }
 
 .navbar-toggler {
@@ -122,7 +122,7 @@ a:hover {
 
 .navbar-nav .nav-item .nav-link:hover,
 .navbar-nav .nav-item .nav-link.active {
-    color: #cc00b1;
+    color: #555555;
 }
 
 /* Navbar collapse */
@@ -133,13 +133,13 @@ a:hover {
 }
 
 .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
-    color: #cc00b1;
+    color: #555555;
 }
 
 /* Additional settings for mobile view */
 @media (max-width: 767.98px) {
     .navbar-collapse {
-        background-color: #ce0060;
+        background-color: #333333;
     }
 
     .navbar-collapse .navbar-nav .nav-item .nav-link {
@@ -147,7 +147,8 @@ a:hover {
     }
 
     .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
-        color: #cc00b1;
+        color: #555555;
     }
 }
+
 
