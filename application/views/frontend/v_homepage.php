@@ -15,7 +15,7 @@
                             <p class="display-6 color-d">Selamat Datang</p>
                             <h1 class="intro-title mb-4">[Your Brand Name]</h1>
                             <p class="intro-subtitle">
-                                <span class="text-slider-ps">Kopi Premium, Suasana Nyaman, Pelayanan Terbaik</span>
+                                <span class="text-slider-ps">Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>
                                 <strong class="text-slider"></strong>
                             </p>
                         </div>
@@ -29,10 +29,10 @@
                 <div class="intro-content display-table">
                     <div class="table-cell">
                         <div class="container">
-                            <p class="display-6 color-d">Nikmati Kelezatan</p>
-                            <h1 class="intro-title mb-4">Varian Kopi Terbaik</h1>
+                            <p class="display-6 color-d">Lorem Ipsum</p>
+                            <h1 class="intro-title mb-4">Dolor Sit Amet</h1>
                             <p class="intro-subtitle">
-                                <span class="text-slider-ps">Espresso, Latte, Cappuccino</span>
+                                <span class="text-slider-ps">Consectetur, Adipiscing, Elit</span>
                                 <strong class="text-slider"></strong>
                             </p>
                         </div>
@@ -46,10 +46,10 @@
                 <div class="intro-content display-table">
                     <div class="table-cell">
                         <div class="container">
-                            <p class="display-6 color-d">Tempat Nyaman</p>
+                            <p class="display-6 color-d">Lorem Ipsum</p>
                             <h1 class="intro-title mb-4">Welcome to [Your Brand Name]</h1>
                             <p class="intro-subtitle">
-                                <span class="text-slider-ps">Ruang Indoor & Outdoor, Wi-Fi Gratis</span>
+                                <span class="text-slider-ps">Sed do eiusmod tempor incididunt</span>
                                 <strong class="text-slider"></strong>
                             </p>
                         </div>
@@ -75,7 +75,7 @@
             <div class="col-sm-12">
                 <div class="title-box text-center">
                     <h3 class="title-a">Welcome to [Your Brand Name]!</h3>
-                    <p class="subtitle-a">Nikmati Cita Rasa Kopi dan Suasana yang Nyaman</p>
+                    <p class="subtitle-a">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                     <div class="line-mf"></div>
                 </div>
             </div>
@@ -85,8 +85,8 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="title-box text-center">
-                    <h3 class="title-a">Koleksi Terbaru Kami</h3>
-                    <p class="subtitle-a">Rasakan kopi yang baru diseduh, kue-kue lezat, dan menu baru kami. Temukan cita rasa unik yang tidak Anda temukan di tempat lain!</p>
+                    <h3 class="title-a">Our Services</h3>
+                    <p class="subtitle-a">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                     <div class="line-mf"></div>
                 </div>
             </div>
@@ -147,11 +147,11 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="title-box text-center">
-                    <h3 class="title-a">Keunggulan Kami</h3>
+                    <h3 class="title-a">Why Choose Us</h3>
                     <p class="subtitle-a">
-                        - Praktik Berkelanjutan: Kami menggunakan produk dan metode ramah lingkungan untuk mengurangi dampak lingkungan.<br>
-                        - Harga Terjangkau: Nikmati kopi premium tanpa harus merogoh kocek dalam-dalam.<br>
-                        - Pilihan Unik: Setiap item di menu kami dirancang untuk menawarkan pengalaman rasa yang unik.
+                        - Lorem Ipsum: Dolor sit amet, consectetur adipiscing elit.<br>
+                        - Consectetur: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
+                        - Adipiscing: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
                     </p>
                     <div class="line-mf"></div>
                 </div>
