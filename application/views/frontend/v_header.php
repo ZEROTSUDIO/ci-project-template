@@ -11,13 +11,13 @@
     <link href="<?php echo base_url() . '/gambar/website/' . $pengaturan->logo; ?>" rel="icon">
     <link href="<?php echo base_url(); ?>assets_frontend/img/apple-touchicon.png" rel="apple-touch-icon">
     <!-- Bootstrap CSS File -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Libraries CSS Files -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/ionicons@2.0.1/css/ionicons.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/owl.carousel@2.3.4/dist/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/lightbox2@2.10.0/dist/css/lightbox.min.css" rel="stylesheet">
     <!-- Main Stylesheet File -->
     <link href="<?php echo base_url(); ?>assets_frontend/css/style.css" rel="stylesheet">
     <link href="<?php echo base_url(); ?>assets_frontend/css/style2.css" rel="stylesheet">
