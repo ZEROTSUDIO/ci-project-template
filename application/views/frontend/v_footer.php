@@ -44,16 +44,16 @@
 <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
 <div id="preloader"></div>
 <!-- JavaScript Libraries -->
-<script src="<?php echo base_url(); ?>assets_frontend/lib/jquery/jquery.min.js"></script>
-<script src="<?php echo base_url(); ?>assets_frontend/lib/jquery/jquery-migrate.min.js"></script>
-<script src="<?php echo base_url(); ?>assets_frontend/lib/popper/popper.min.js"></script>
-<script src="<?php echo base_url(); ?>assets_frontend/lib/bootstrap/js/bootstrap.min.js"></script>
-<script src="<?php echo base_url(); ?>assets_frontend/lib/easing/easing.min.js"></script>
-<script src="<?php echo base_url(); ?>assets_frontend/lib/counterup/jquery.waypoints.min.js"></script>
-<script src="<?php echo base_url(); ?>assets_frontend/lib/counterup/jquery.counterup.js"></script>
-<script src="<?php echo base_url(); ?>assets_frontend/lib/owlcarousel/owl.carousel.min.js"></script>
-<script src="<?php echo base_url(); ?>assets_frontend/lib/lightbox/js/lightbox.min.js"></script>
-<script src="<?php echo base_url(); ?>assets_frontend/lib/typed/typed.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.0.1/jquery-migrate.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.9/typed.min.js"></script>
 <!-- Contact Form JavaScript File -->
 <script src="<?php echo base_url(); ?>assets_frontend/contactform/contactform.js"></script>
 <!-- Template Main Javascript File -->
